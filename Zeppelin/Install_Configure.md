@@ -45,7 +45,7 @@ export ZEPPELIN_SPARK_USEHIVECONTEXT=false    # Use HiveContext instead of SQLCo
 
 ---
 
-##### Start/Stop Apache Zeppelin :
+##### Start / Stop Apache Zeppelin :
 
 ``` $ZEPPELIN_HOME/bin/zeppelin-daemon.sh [ start | stop ] ```
 
@@ -55,3 +55,4 @@ export ZEPPELIN_SPARK_USEHIVECONTEXT=false    # Use HiveContext instead of SQLCo
 
 ``` http://<SERVER_IP>:9990/ ```
 
+---
