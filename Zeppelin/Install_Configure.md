@@ -39,3 +39,19 @@ export ZEPPELIN_SPARK_USEHIVECONTEXT=false    # Use HiveContext instead of SQLCo
 
 ---
 
+##### Make ` $ZEPPELIN_HOME/conf/zeppelin-env.sh ` file executable :
+
+``` chmod ugo+x $ZEPPELIN_HOME/conf/zeppelin-env.sh ```
+
+---
+
+##### Start/Stop Apache Zeppelin :
+
+``` $ZEPPELIN_HOME/bin/zeppelin-daemon.sh [ start | stop ] ```
+
+---
+
+##### Apache Zeppelin Notebook :
+
+``` http://<SERVER_IP>:9990/ ```
+
