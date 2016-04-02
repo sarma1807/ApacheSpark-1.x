@@ -53,6 +53,6 @@ export ZEPPELIN_SPARK_USEHIVECONTEXT=false    # Use HiveContext instead of SQLCo
 
 ##### Apache Zeppelin Notebook :
 
-``` http://<SERVER_IP>:9990/ ```
+``` http://<ZEPPELIN_SERVER_IP>:9990/ ```
 
 ---
